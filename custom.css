@@ -1,0 +1,10 @@
+.page-header {
+    background-image: url('header2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;  
+}
+
+.project-name  {
+    text-shadow: 2px 2px 8px black;
+}
