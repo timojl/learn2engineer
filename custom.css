@@ -1,10 +1,29 @@
 .page-header {
-    background-image: url('header2.jpg');
+    background-image: url('header3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;  
+    padding:0.5em;
 }
 
 .project-name  {
+    margin-top: 390px;
     text-shadow: 2px 2px 8px black;
+    display: inline-block; 
+    margin-bottom: 0px;
+    font-size: 3em;
+}
+
+
+.project-tagline  {
+    margin-top: 0.1em;
+    margin-bottom: 1em;
+
+    color:#ffffff;
+    opacity: 1.0;
+    text-shadow: 1px 1px 8px black;
+}
+
+.main-content h1, .main-content h2, h3 {
+    color: #286c95
 }
